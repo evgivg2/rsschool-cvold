@@ -1,5 +1,1 @@
-# rsschool-cv
-change 1
-change 2
-change 3
-change 4
+https://evgivg2.github.io/rsschool-cv/cv
