@@ -23,7 +23,7 @@ Comming soon
 
 ## Education
 * Glazow Technical College, Electrical Technician
-* Izhevsk Agricultural Academy,Electrical Engineer
+* Izhevsk Agricultural Academy, Electrical Engineer
 
 ## English
 **B1**
