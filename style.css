@@ -169,7 +169,7 @@ pre {
 	color: white;
 }
 .cv_header:hover {
-	background-color: rgb(154, 154, 154);
+	background-color: #077187;
 	color: white;
 }
 .cv_skills:hover {
@@ -181,13 +181,13 @@ pre {
 	color: white;
 }
 .cv_about:hover {
-    background-color:rgb(206, 175, 151)
+    background-color: #bd8a7a;
 }
 .cv_education:hover {
-    background-color:rgb(206, 175, 151)
+    background-color:#bd8a7a;
 }
 .cv_cources:hover {
-    background-color:rgb(206, 175, 151)
+    background-color:#bd8a7a;
 }
 .code:hover {
     background-color: black;
